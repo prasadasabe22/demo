@@ -1,3 +1,4 @@
 hi
 this is demo.
 Please add files in the repository.
+git push -u origin main
